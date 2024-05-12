@@ -1,0 +1,4 @@
+type: module
+nickname: demo
+
+client_package_path: ../demo_client
